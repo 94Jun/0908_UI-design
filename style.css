@@ -67,6 +67,7 @@
 
 /* 헤더 오른쪽 시작 */
 .right{
+  background-image: url("images/background.jpg");
   background-size: cover;
   width: 100%;
 }
